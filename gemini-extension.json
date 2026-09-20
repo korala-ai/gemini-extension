@@ -1,0 +1,11 @@
+{
+  "name": "korala",
+  "version": "0.1.0",
+  "description": "Draft, prepare, send and track document signing requests in Korala.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "korala": {
+      "httpUrl": "https://api.korala.ai/mcp"
+    }
+  }
+}
