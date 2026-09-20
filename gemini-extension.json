@@ -1,6 +1,6 @@
 {
   "name": "korala",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Draft, prepare, send and track document signing requests in Korala.",
   "contextFileName": "GEMINI.md",
   "mcpServers": {
